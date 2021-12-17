@@ -3,7 +3,7 @@ objects = []
 alarm = ""
 
 function preload() {
-    alarm = loadSound("christmas_bells.mp3");
+    alarm = loadsound("christmas_bells.mp3");
 }
 
 function setup() {
